@@ -1,0 +1,9 @@
+Employee1name:a
+Employee1ID:12
+Employee1average score:382.0
+Employee2name:b
+Employee2ID:34
+Employee2average score:1224.3333333333333
+Employee3name:c
+Employee3ID:34
+Employee3average score:858.8333333333334
